@@ -1,2 +1,1 @@
-# josephchahine.github.io
 Test
