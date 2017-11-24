@@ -1,1 +1,1 @@
-## Your hair is cool! :+1:
+## Your hair is cool!
