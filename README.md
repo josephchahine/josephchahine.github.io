@@ -1,2 +1,3 @@
-Testing Github Pages
-You can preview my site on https://josephchahine.github.io
+##Testing Github Pages##
+
+You can preview my site [here](https://josephchahine.github.io)
